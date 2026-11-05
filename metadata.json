@@ -1,0 +1,6 @@
+{
+  "name": "S&S STATIONARY Sales Register",
+  "description": "High-efficiency Point of Sale (POS) and sales registration system for S&S STATIONARY shop, featuring fast item billing, inventory management, customer credit tracking, printable receipts, and daily sales closing reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
